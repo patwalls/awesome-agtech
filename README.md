@@ -57,6 +57,7 @@ Aerial and satellite-based technologies for monitoring crops and land conditions
 
 Tools and platforms for understanding soil conditions, crop health, and environmental factors.
 
+- [Agricalc](https://agricalc.online) — Free science-based agriculture calculators covering the full farming cycle, from soil and fertilization to harvest.
 - [CropX](https://www.cropx.com/) — Soil sensing and analytics platform for irrigation optimization.
 - [FarmLogs](https://farmlogs.com/) — Farm data platform for tracking crop performance and field conditions.
 - [Taranis](https://taranis.com/) — AI-powered crop intelligence platform using aerial imagery.
